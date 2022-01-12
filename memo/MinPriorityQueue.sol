@@ -1,5 +1,7 @@
 pragma solidity ^0.5.1;
 
+//starting to translate this entire doc today
+
 import "./SafeMath.sol";
 
 library MinPriorityQueue {
